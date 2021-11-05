@@ -5,8 +5,8 @@ En este perfil se encuentran mis diferentes proyectos estudiantiles y otros expe
 🤖Conocimientos🤖
 En los lenguajes y conocimientos (no necesariamente de programación) que tengo conocimiento se encuentran:
  - Los tres "esenciales" del campo FrontEnd (HTML, CSS y JavaScript)
- - Backends con Django, php y Node.js
+ - Vue.js
+ - Backends con Django y Node.js
  - Java
- - C++
  - Python
  - Bases de datos relacionales (SQL)
